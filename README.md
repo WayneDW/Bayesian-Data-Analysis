@@ -3,10 +3,10 @@
 
 Tentative topics:
 
-## Bayesian Logistic Regression
+Bayesian Logistic Regression
 
-## Hierarchical Bayes and Gaussian Process
+Hierarchical Bayes and Gaussian Process
 
-## Markov Chain Monte Carlo
+Markov Chain Monte Carlo
 
-## Bayesian Neural Network
+Bayesian Neural Network

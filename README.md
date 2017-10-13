@@ -9,4 +9,4 @@ Hierarchical Bayes and Gaussian Process
 
 Markov Chain Monte Carlo
 
-Bayesian Neural Network
+Bayesian Neural Network and Hamiltonian monte carlo

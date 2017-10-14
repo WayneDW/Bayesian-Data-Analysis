@@ -7,6 +7,6 @@ Tentative topics:
 
 [Hierarchical Bayes and Gaussian Process](http://rpubs.com/greyman/308720)
 
-[Markov Chain Monte Carlo](http://rpubs.com/greyman/MCMC_MH_Sampling)
+[Markov Chain Monte Carlo and basic experiment design](http://rpubs.com/greyman/MCMC_MH_Sampling)
 
 Bayesian Neural Network and Hamiltonian monte carlo

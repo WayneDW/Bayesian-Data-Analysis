@@ -13,7 +13,7 @@ Bayesian Neural Network and Hamiltonian monte carlo
 
 #### Note
 
-To run code in your environment, remember to change the directory for the data
+To run code in your environment, remember to change the directory
 
 #### Acknowledgement
 

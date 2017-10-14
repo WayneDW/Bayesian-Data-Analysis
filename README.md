@@ -1,7 +1,7 @@
 # Bayesian Data Analysis
 
 
-Tentative topics:
+#### Tentative topics:
 
 [Bayesian Logistic Regression](http://rpubs.com/greyman/Bayesian_Logistic_Regression)
 
@@ -11,5 +11,6 @@ Tentative topics:
 
 Bayesian Neural Network and Hamiltonian monte carlo
 
-Acknowledgement
+#### Acknowledgement
+
 [STAT 695 Bayesian Data Analysis](http://www.stat.purdue.edu/~sabbaghi/teaching/STAT%20695%20Syllabus%202017.pdf) by [Dr. Sabbaghi](http://www.stat.purdue.edu/~sabbaghi/) and [Dr.Rao](https://varao.github.io/)

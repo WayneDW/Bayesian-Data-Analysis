@@ -11,7 +11,6 @@ urlcolor: blue
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
 ## Theory
 
 ##### Consider observations $y_1, ..., y_n | N, \theta \overset{\mathrm{i.i.d.}}{\sim} Binomial(N, \theta)$, where both N and $\theta$ are unknown parameters that are to be inferred. Raftery (1988) describes one Bayesian approach for this inference. Instead of directly specifying a joint prior on $(N, \theta)$, he first specifies $N|\theta,\mu \sim  Poisson(\mu)$, then defines $\lambda = \mu \theta$, and finally specifies a prior on $(\lambda, \theta)$. Your task in the Theory and Computation problems is to develop and implement this Bayesian approach.

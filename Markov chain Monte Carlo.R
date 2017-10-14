@@ -5,6 +5,7 @@ data_covariates = read.csv("ny_doe_covariates.csv", header=TRUE)
 data_assignments = read.csv("ny_doe_treatment_assignments.csv", header=TRUE)
 data_grades = read.csv("ny_doe_cumulative_grades.csv", header=TRUE)
 
+
 library(standardize)
 colNames = colnames(data_assignments)
 data_assignments = scale(data_assignments)

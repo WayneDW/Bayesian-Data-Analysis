@@ -3,7 +3,7 @@
 
 Tentative topics:
 
-Bayesian Logistic Regression
+[Bayesian Logistic Regression](http://rpubs.com/greyman/Bayesian_Logistic_Regression)
 
 [Hierarchical Bayes and Gaussian Process](http://rpubs.com/greyman/308720)
 

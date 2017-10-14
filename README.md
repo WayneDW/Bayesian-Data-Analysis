@@ -11,6 +11,10 @@
 
 Bayesian Neural Network and Hamiltonian monte carlo
 
+#### Note
+
+To run code in your environment, remember to change the directory for the data
+
 #### Acknowledgement
 
 [STAT 695 Bayesian Data Analysis](http://www.stat.purdue.edu/~sabbaghi/teaching/STAT%20695%20Syllabus%202017.pdf) by [Dr. Sabbaghi](http://www.stat.purdue.edu/~sabbaghi/) and [Dr.Rao](https://varao.github.io/)

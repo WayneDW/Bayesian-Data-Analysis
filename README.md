@@ -9,7 +9,7 @@
 
 [Markov Chain Monte Carlo and Experiment Design](http://rpubs.com/greyman/MCMC_MH_Sampling)
 
-Bayesian Neural Network and Hamiltonian monte carlo
+[Bayesian Neural Network and Hamiltonian monte carlo](http://rpubs.com/greyman/323557)
 
 #### Note
 

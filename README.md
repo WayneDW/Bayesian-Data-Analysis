@@ -11,7 +11,7 @@
 
 [Bayesian Neural Network and Hamiltonian monte carlo](http://rpubs.com/greyman/323557)
 
-[Mixture Models and expectation–maximization (EM) ](http://rpubs.com/greyman/323557)
+[Mixture Models and expectation–maximization (EM) ](http://rpubs.com/greyman/329360)
 
 #### Note
 

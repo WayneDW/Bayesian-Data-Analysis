@@ -13,6 +13,8 @@
 
 [Mixture Models and Expectation Maximization](http://rpubs.com/greyman/329360)
 
+Variational Bayes
+
 #### Note
 
 To run code in your environment, remember to change the directory
